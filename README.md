@@ -15,7 +15,7 @@ A simple and customizable React application to generate secure passwords dynamic
 
 ## Demo
 
-![Password Generator Preview](preview-image-link)  
+https://i.postimg.cc/ZKxkq11Q/Password-generator.png
 (*Replace this line with an actual link to your demo or image once hosted*)
 
 ## Installation
